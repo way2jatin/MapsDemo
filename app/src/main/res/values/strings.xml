@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MapsDemo</string>
+    <!--Original string: <b>%1$s</b><br/>%3$s-->
+    <string name="place_details">&lt;b&gt;%1$s&lt;/b&gt;</string>
+    <string name="api_key">AIzaSyD5UENMC6sy-SdvDL_R--fFzHhMK9lm3b8</string>
+</resources>
